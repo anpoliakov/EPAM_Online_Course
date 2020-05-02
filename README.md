@@ -1,1 +1,4 @@
-<h1> Модуль 1 </h1>
+<h1> Modul_1(Basics of software code development) </h1>
+<li> Линейные программы
+<li> Ветвления
+<li> Циклы
